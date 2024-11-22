@@ -1,0 +1,11 @@
+InputDocxPath = "D:\\Test\\Residential2024v1.docx"
+OutputDocxPath = "" // Leave empty to use LesseeName with date and time and add to InputDocxPath directory
+Date = "" // Leave blank if you want today's date (e.g., November 21st, 2024)
+LessorName = "Billy Hughes"
+LesseeName = "Breanna Smith"
+PropertyAddress = "123 Tech Street Tech City"
+County = "Duval"
+LeaseTermAmount = "6"
+LeaseTermPeriod = "months"
+LeaseStartDate = "October 17th, 2024"
+LeaseEndDate = "April 1st, 2025"examplm
