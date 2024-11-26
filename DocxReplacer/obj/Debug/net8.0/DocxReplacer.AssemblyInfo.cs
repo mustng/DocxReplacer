@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DocxReplacer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ec69e7142df0de510a31784dd088efab51d8224")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d28f3922defdd38645b207e6db151daec4355d73")]
 [assembly: System.Reflection.AssemblyProductAttribute("DocxReplacer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DocxReplacer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
