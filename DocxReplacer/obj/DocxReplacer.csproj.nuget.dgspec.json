@@ -50,13 +50,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "DocX": {
+            "DocumentFormat.OpenXml": {
               "target": "Package",
-              "version": "[3.0.1, )"
-            },
-            "System.Drawing.Common": {
-              "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[3.1.1, )"
             }
           },
           "imports": [
