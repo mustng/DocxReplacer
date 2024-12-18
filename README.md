@@ -1,6 +1,6 @@
 # Word Document Placeholder Replacement Tool (DocxReplacer)
 
-DocxReplacer is a lightweight tool designed to automate the replacement of placeholders in Microsoft Word `.docx`  templates. While it is tailored for generating leases, it can be used for any type of document that requires dynamic text insertion, number-to-words conversion, and customizable date formatting. Whether you're creating contracts, reports, or personalized letters, DocxReplacer provides an efficient and versatile solution.
+DocxReplacer is a lightweight tool designed to automate the replacement of placeholders in Microsoft Word `.docx` templates. While tailored for generating leases, it is versatile enough for contracts, reports, personalized letters, and other dynamic documents. It supports number-to-words conversion and customizable date formatting.
 
 ---
 
@@ -13,11 +13,20 @@ DocxReplacer is a lightweight tool designed to automate the replacement of place
 - Simple configuration through a plain text file (`config.txt`).
 
 ---
+
 ## Download
 
-For users who don’t want to build the project themselves, you can download the pre-built executable:
+Outright download [DocxReplacer.zip](https://github.com/user-attachments/files/18174354/DocxReplacer.zip)
+
+For users who don’t want to build the project themselves, download the pre-built executable:
 
 - [Download DocxReplacer Executable](https://github.com/mustng/DocxReplacer/releases)
+
+---
+
+## Issues
+
+**Known Issue**: If the `.docx` file contains bold placeholders, it may cause the entire paragraph to appear bold. Use consistent formatting within templates to avoid this issue.
 
 ### Instructions for Non-Programmers
 
